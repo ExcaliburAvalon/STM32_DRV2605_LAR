@@ -1,0 +1,2 @@
+drv2605_simple.c:11:9:DRV2605_SimpleInit	40	static
+drv2605_simple.c:32:6:DRV2605_SimpleVibrate	32	static
